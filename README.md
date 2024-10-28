@@ -3,10 +3,10 @@
 #### use Termux or Terminal  
 
  ``` 
- git clone https://github.com/elphador/wcoin.git
+ git clone https://github.com/Noxashik/wcoin_update.git
 ```
  ``` 
- cd wcoin
+ cd wcoin_update
 ```
  ``` 
  pip install -r requirements.txt
